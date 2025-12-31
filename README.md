@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Bagas Wicaksono</h1>
-<h3 align="center">High school student with a passion for coding, exploring technology, and creating innovative solutions. Eager to learn and grow in the world of software development.</h3>
 
 - 🔭 Currently I am studying at **SMA Negeri 2 Jember**
 
 - 🌱 I’m currently learning **C, C++, Rust, Golang**
 
 - 📫 How to reach me **bagaswko@gmail.com**
-
-- ⚡ Fun fact **Just Human**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
