@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bagas Wicaksono</h1>
 
+
 - 🔭 Currently I am studying at **SMA Negeri 2 Jember**
 
 - 🌱 I’m currently learning **C, C++, Rust, Golang**
