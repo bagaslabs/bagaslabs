@@ -43,7 +43,7 @@
       width="40" />
   </a>
 
-  <!-- Ganti USERNAME dengan invite/link Discord asli -->
+  <!-- Replace USERNAME with your real Discord invite/profile -->
   <a href="https://discord.gg/USERNAME" target="_blank">
     <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
@@ -58,7 +58,6 @@
 <h3 align="left">🛠 Languages and Tools</h3>
 
 <p align="left">
-
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
       alt="C"
@@ -81,7 +80,7 @@
   </a>
 
   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg"
       alt="Rust"
       width="40"
       height="40"/>
@@ -114,5 +113,4 @@
       width="40"
       height="40"/>
   </a>
-
 </p>
