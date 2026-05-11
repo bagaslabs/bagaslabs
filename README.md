@@ -5,7 +5,6 @@ A high school student who is passionate about programming, networking, and syste
 Interested in game development, backend systems, and low-level programming.
 </p>
 
-- 🔭 Currently I am studying at **SMA Negeri 2 Jember**
 - 🌱 I’m currently learning **C, C++, Rust, Golang**
 - 💻 Interested in **Game Development, Networking, Backend & Systems Programming**
 - 📫 How to reach me **bagaswko@gmail.com**
