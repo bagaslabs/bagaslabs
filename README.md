@@ -8,7 +8,6 @@
 ---
 
 ### 🌱 Currently Learning
-- C
 - C++
 - Rust
 - Golang
@@ -17,7 +16,6 @@
 - Game Development
 - Networking
 - Backend Development
-- Systems Programming
 
 ### 📫 Contact
 - Email: **bagaswko@gmail.com**
